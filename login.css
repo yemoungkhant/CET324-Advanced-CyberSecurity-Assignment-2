@@ -1,0 +1,37 @@
+body {
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+    box-shadow: 0px;
+}
+
+.form-group-1 {
+    margin-bottom: 5px;
+    box-shadow: 0px;
+}
+
+.name {
+    display: block;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.form-btn-login {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.forgot {
+    text-align: right;
+}

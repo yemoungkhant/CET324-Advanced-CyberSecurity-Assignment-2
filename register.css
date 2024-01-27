@@ -1,0 +1,46 @@
+body {
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-top: 40px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+    box-shadow: 0px;
+}
+
+.form-btn-login {
+    margin-bottom: 20px;
+}
+
+.form-btn-regi {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}
+
+.form-group-regi {
+    margin-bottom: 20px;
+}
+
+.form-check-regi {
+    margin-bottom: 20px;
+}
+
+.name {
+    display: block;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.font {
+    text-align: justify;
+    font-weight: 50px;
+}
